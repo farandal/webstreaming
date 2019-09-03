@@ -2,6 +2,7 @@
 
 Project for streaming and detection demo.
 - Original code is Adrian Rosebrock "OpenCV – Stream video to web browser/HTML page" 
+
 First you need: 
 - pip install flask
 - pip install numpy
